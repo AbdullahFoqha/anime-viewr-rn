@@ -1,0 +1,8 @@
+{
+  "replaceAttrValues": {
+    "red": "currentColor"
+  },
+  "compilerOptions": {
+    "jsx": "react"
+  }
+}
